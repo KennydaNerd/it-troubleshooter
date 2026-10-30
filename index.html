@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="An interactive IT troubleshooting guide that walks users through common problems step by step." />
+  <title>IT Troubleshooting Guide</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <h1>IT Troubleshooting Guide</h1>
+      <p>Answer a few quick questions and get clear next steps. Know when to fix it yourself and when to escalate.</p>
+    </header>
+
+    <section class="panel" aria-live="polite">
+      <div class="progress" id="progress" aria-hidden="true"></div>
+      <div id="content"></div>
+      <div class="controls">
+        <button class="btn" id="backBtn" disabled>&larr; Back</button>
+        <button class="btn" id="restartBtn">Start over</button>
+      </div>
+    </section>
+
+    <footer class="foot">Built with HTML, CSS and JavaScript. No frameworks, no dependencies.</footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
