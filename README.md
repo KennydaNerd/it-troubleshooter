@@ -2,7 +2,7 @@
 
 An interactive guide that walks a user through common IT problems one question at a time, then tells them either how to fix it or when to escalate. It also creates a ready-to-paste incident summary for a support ticket.
 
-**Live demo:** [add your link here]
+**Live demo:(https://it-troubleshooter.vercel.app/)
 
 ![Screenshot of the IT Troubleshooting Guide](docs/screenshot.png)
 
