@@ -4,8 +4,6 @@ An interactive guide that walks a user through common IT problems one question a
 
 Live demo:(https://it-troubleshooter.vercel.app/)
 
-![Screenshot of the IT Troubleshooting Guide](docs/screenshot.png)
-
 ## Features
 
 - Decision-tree troubleshooting for 4 common problems: blank screens, no internet, computers that will not start, and slow devices
