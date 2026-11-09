@@ -48,7 +48,8 @@ All the content lives in one JavaScript object (`tree` in `script.js`). Each ent
 - Search box to jump straight to a problem
 - Save a history of past incident summaries
 
-## Author
+## Contact
 
-**Kgothatso Kenny Manyaka**
-
+Kgothatso Kenny Manyaka
+Pretoria / Johannesburg, South Africa
+[Email](mailto:manyakakgothatso7@gmail.com) · [LinkedIn](https://linkedin.com/in/kgothatso-manyaka-00036627b) · [GitHub](https://github.com/KennydaNerd)
